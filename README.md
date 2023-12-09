@@ -25,3 +25,16 @@ The analysts organized those tasks and activities around the six phases of the d
 
 
  # **Data Ecosystem**
+An ecosystem is a group of elements that interact with one another. Ecosystems can be large, like the jungle in a tropical rainforest or the Australian outback. Or, tiny, like tadpoles in a puddle, or bacteria on your skin.
+Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and the people who use them.
+
+Data can also be found in something called the cloud. The cloud is a place to keep data online, rather than on a computer hard drive. So instead of storing data somewhere inside your organization's network, that data is accessed over the internet. So the cloud is just a term we use to describe the virtual location. The cloud plays a big part in the data ecosystem, and as a data analyst, it's your job to harness the power of that data ecosystem, find the right information, and provide the team with analysis that helps them make smart decisions. 
+
+**Data-driven decision-making:** Data-driven decision-making is defined as using facts to guide business strategy. Organizations in many different industries are empowered to make better, data-driven decisions by data analysts all the time.  The first step in data-driven decision-making is figuring out the business need.
+
+# Data and gut instinct
+Gut instinct is an intuitive understanding of something with little or no explanation. This isn’t always something conscious; we often pick up on signals without even realizing. You just have a “feeling” it’s right.
+**Data + business knowledge = mystery solved**
+Blending data with business knowledge, plus maybe a touch of gut instinct, will be a common part of your process as a junior data analyst. The key is figuring out the exact mix for each particular project. A lot of times, it will depend on the goals of your analysis. That is why analysts often ask, “How do I define success for this project?”
+
+# Origins of the data analysis process
