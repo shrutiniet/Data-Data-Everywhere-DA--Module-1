@@ -38,3 +38,61 @@ Gut instinct is an intuitive understanding of something with little or no explan
 Blending data with business knowledge, plus maybe a touch of gut instinct, will be a common part of your process as a junior data analyst. The key is figuring out the exact mix for each particular project. A lot of times, it will depend on the goals of your analysis. That is why analysts often ask, “How do I define success for this project?”
 
 # Origins of the data analysis process
+The ancient Egyptians were masters of organizing data. They documented their calculations and theories on papyri (paper-like materials), which are now viewed as the earliest examples of spreadsheets and checklists. Today’s data analysts owe a lot to those brilliant scribes, who helped create a more technical and efficient process.
+
+The process presented as part of the Google Data Analytics Certificate is one that will be valuable to you as you keep moving forward in your career:
+**Ask:** Business Challenge/Objective/Question
+**Prepare:** Data generation, collection, storage, and data management
+**Process:** Data cleaning/data integrity
+**Analyze:** Data exploration, visualization, and analysis
+**Share**: Communicating and interpreting results 
+**Act:**  Putting your insights to work to solve the problem
+
+**EMC's data analysis life cycle**
+EMC Corporation's data analytics life cycle is cyclical with six steps:
+
+1. Discovery
+2. Pre-processing data
+3. Model planning
+4. Model building
+5. Communicate results
+6. Operationalize
+
+EMC Corporation is now Dell EMC. This model, created by David Dietrich, reflects the cyclical nature of real-world projects. The phases aren’t static milestones; each step connects and leads to the next, and eventually repeats.
+
+**SAS's iterative life cycle**
+An iterative life cycle was created by a company called SAS, a leading data analytics solutions provider. It can be used to produce repeatable, reliable, and predictive results: 
+
+1. Ask
+2. Prepare
+3. Explore
+4. Model
+5. Implement
+6. Act
+7. Evaluate
+
+The SAS model emphasizes the cyclical nature of their model by visualizing it as an infinity symbol. Their life cycle has seven steps, many of which we have seen in the other models, like Ask, Prepare, Model, and Act. But this life cycle is also a little different; it includes a step after the act phase designed to help analysts evaluate their solutions and potentially return to the ask phase again. 
+
+**Project-based data analytics life cycle** 
+A project-based data analytics life cycle has five simple steps:
+1. Identifying the problem
+2. Designing data requirements
+3. Pre-processing data
+4. Performing data analysis
+5. Visualizing data
+
+This data analytics project life cycle was developed by Vignesh Prajapati. It doesn’t include the sixth phase, or what we have been referring to as the Act phase. However, it still covers a lot of the same steps as the life cycles we have already described. It begins with identifying the problem, preparing and processing data before analysis, and ends with data visualization.
+
+**Big data analytics life cycle**
+Authors Thomas Erl, Wajid Khattak, and Paul Buhler proposed a big data analytics life cycle in their book, Big Data Fundamentals: Concepts, Drivers & Techniques. Their life cycle suggests phases divided into nine steps:
+1. Business case evaluation
+2. Data identification
+3. Data acquisition and filtering
+4. Data extraction
+5. Data validation and cleaning
+6. Data aggregation and representation
+7. Data analysis
+8. Data visualization
+9. Utilization of analysis results
+
+This life cycle appears to have three or four more steps than the previous life cycle models. But in reality, they have just broken down what we have been referring to as Prepare and Process into smaller steps. It emphasizes the individual tasks required for gathering, preparing, and cleaning data before the analysis phase.
